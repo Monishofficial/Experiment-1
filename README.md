@@ -15,8 +15,8 @@ cases.
 5. Stop the program. 
 
 ## Program
-Name: MONISH N
-Register No: 212223240097
+#### Name: MONISH N
+#### Register No: 212223240097
 
 ## a) do while:
 ~~~
